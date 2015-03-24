@@ -1,0 +1,10 @@
+name: RegionLogger
+main: com.gmail.tclunan.RegionLogger
+version: "1.0"
+commands:
+   er:
+      description: Displays the log for /region.
+      usage: /er [region]
+      permission: log.er
+      permission-message: No permission to use this command.
+
